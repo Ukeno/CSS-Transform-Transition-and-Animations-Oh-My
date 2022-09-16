@@ -1,1 +1,10 @@
-
+/*Changes background color*/
+.button {
+    background-color: ghostwhite;
+}
+/*Changes background color on hover over button*/
+.button:hover {
+    background-color: cornflowerblue;
+    color: ghostwhite;
+    transition-duration: 2s;
+}

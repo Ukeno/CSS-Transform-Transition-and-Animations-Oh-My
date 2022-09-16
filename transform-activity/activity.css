@@ -1,3 +1,4 @@
+/*Changes the shape of the div. Skew in this case*/
 main {
-
+    transform: rotate(-8.5deg) skew(-9deg, -9deg);
 }
